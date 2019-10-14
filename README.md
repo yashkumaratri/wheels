@@ -2,6 +2,9 @@
 
 TF wheels to run on new CUDA 9/10 with older TF's : Tested 1.2.1
 
+pip install --ignore-installed --upgrade https://github.com/mind/wheels/releases/download/tf1.2.1-gpu/tensorflow-1.2.1-cp36-cp36m-linux_x86_64.whl
+
+
 Custom builds for TensorFlow with platform optimizations, including SSE, AVX and FMA. If you are seeing messages like the following with the stock `pip install tensorflow`, you've come to the right place.
 
 ```
