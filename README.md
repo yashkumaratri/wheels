@@ -1,5 +1,7 @@
 # TensorFlow Optimized Wheels
 
+TF wheels to run on new CUDA 9/10 with older TF's : Tested 1.2.1
+
 Custom builds for TensorFlow with platform optimizations, including SSE, AVX and FMA. If you are seeing messages like the following with the stock `pip install tensorflow`, you've come to the right place.
 
 ```
